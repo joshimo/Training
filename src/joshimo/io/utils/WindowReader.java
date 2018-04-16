@@ -2,6 +2,7 @@ package joshimo.io.utils;
 
 import javax.swing.*;
 import java.io.IOException;
+
 import static joshimo.io.utils.NumbersValidator.*;
 
 public class WindowReader {
